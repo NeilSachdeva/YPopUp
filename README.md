@@ -3,7 +3,7 @@
 # YPopUp Lottery Algorithm
 This repository contains the algorithm we use for the Y Pop-Up Lottery and subsequent seat selection.
 
-Put simply, The neil-draw algorithm takes in Y Pop-Up Lottery submission data and picks a set of lucky customers to attend that week's Y Pop-Up opening!
+Put simply, The neildraw algorithm takes in Y Pop-Up Lottery submission data and picks a set of lucky customers to attend that week's Y Pop-Up opening!
 The algorithm takes 2 key factors into account:
 ### 1. The number of times a person has tried to reserve a table and not gotten one
 ### 2. The most recent reservation a person has had
