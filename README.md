@@ -14,6 +14,3 @@ Conversely, our algorithm negatively weights factor 2, meaning if you have very 
 After getting our list of lucky folks, our algorithm then assigns tables and time slots based on our customer's requested specifications. The data_formatting.py script helps take care of some pre-processing required to merge various data sources together.
 
 Hopefully, this provides some clarity as to how we operate the lottery. See you at the next opening!
-
-
-![YPopUpLogo](https://github.com/NeilSachdeva/YPopUp/assets/60718463/87e15490-47ac-4abc-a279-7460cd0c1956)
