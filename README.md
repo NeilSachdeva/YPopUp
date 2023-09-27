@@ -1,6 +1,6 @@
 <img width="1511" alt="YPopUpBanner" src="https://github.com/NeilSachdeva/YPopUp/assets/60718463/dc9eb077-fa2a-4e94-9944-3bb672f2b0af">
 
-# YPopUp
+# YPopUp Lottery Algorithm
 This repository contains the algorithm we use for the Y Pop-Up Lottery and subsequent seat selection.
 
 Put simply, The neil-draw algorithm takes in Y Pop-Up Lottery submission data and picks a set of lucky customers to attend that week's Y Pop-Up opening!
