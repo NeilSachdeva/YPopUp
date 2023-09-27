@@ -1,9 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/60718463/270861812-59aaa055-e8f6-446f-a5eb-f0652875550a.png" alt=”my banner”>
-
-</p>
-
+<img src=”https://user-images.githubusercontent.com/60718463/270861812-59aaa055-e8f6-446f-a5eb-f0652875550a.png" alt=”my banner”>
 
 # YPopUp
 This repository contains the algorithm we use for the Y Pop-Up Lottery and subsequent seat selection.
